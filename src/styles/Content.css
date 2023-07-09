@@ -1,0 +1,30 @@
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin: 2px;
+}
+
+.left {
+    width: 75%;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    position: relative;
+    padding: 10px 100px 10px 10px;
+    margin-right: 2%;
+    margin-bottom: 15px;
+}
+
+.right {
+    width: 25%;
+    padding: 10px;
+    margin-top: -30px;
+}
+
+.container h1 {
+    margin: 0;
+}
+
+.container h2 {
+    margin: 0;
+}

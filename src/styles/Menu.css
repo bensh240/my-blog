@@ -1,0 +1,21 @@
+.menu {
+    display: flex;
+    background-color: #4b778d;
+    color: #fff;
+    padding: 10px 30px 30px;
+    align-items: center;
+}
+
+.left-menu a {
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+}
+
+.left-menu a:hover {
+    text-decoration: underline;
+}
+
+#login-button {
+    margin-left: auto;
+}
